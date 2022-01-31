@@ -1,0 +1,13 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   dev: true,
+0 silly argv   D: true,
+0 silly argv   scope: 'local-api',
+0 silly argv   globs: [ 'express' ],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': '..\\..\\..\\..\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: '@types/'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath C:\Users\Bar\Desktop\New folder (3)\codebar
+3 error
